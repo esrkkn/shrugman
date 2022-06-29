@@ -2,4 +2,4 @@
 
 First solo project via Vanilla JavaScript
 
-Guess the Book title or Movie name, or die!
+Guess the Book title or Movie name with only 10 guess, or lose it.
